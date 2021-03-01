@@ -1,4 +1,2 @@
 # sketchLifeBank
 
-
-Some changes
